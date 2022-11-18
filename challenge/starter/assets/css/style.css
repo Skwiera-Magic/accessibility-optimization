@@ -106,7 +106,7 @@ figure {
 }
 
 
-#seo {
+.seo {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -115,12 +115,12 @@ figure {
     color: #ffffff;
 }
 
-#seo img {
+.seo img {
     max-height: 200px;
 }
 
 
-#seo h2 {
+.seo h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
