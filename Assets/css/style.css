@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* removed class from header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,16 +16,19 @@ header {
     color: #ffffff;
 }
 
+/* removed class and header, there's only one h1 anyway */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* changed div into mark */
 mark {
     color: #d9dcd6;
     background-color: #2a607c;
 }
 
+/* changed part of header to nav */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* changed class hero to figure */
 figure {
     height: 800px;
     width: 100%;
