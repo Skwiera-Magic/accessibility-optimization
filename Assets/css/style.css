@@ -72,12 +72,14 @@ figure {
     margin-left: 25px;
 }
 
-.content {
+/* changed .content into section */
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* changed .benefits into aside */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -89,6 +91,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* consolidated 3 classes into 1 div which allowed for removal of quite a lot of code here */
 div {
     margin-bottom: 32px;
     color: #ffffff;
@@ -107,7 +110,7 @@ div img {
     max-width: 150px;
 }
 
-
+/* again, 3 classes consolidated into 1 */
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -121,12 +124,12 @@ article img {
     max-height: 200px;
 }
 
-
-.article h2 {
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* removed class from footer and moved h2 details */
 footer {
     padding: 30px;
     clear: both;
