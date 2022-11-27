@@ -11,5 +11,5 @@
 
 * Here is screenshot of the website:
   ![Screenshot of the working website](Assets/images/screenshot.png)
-* and also website itself on https://skwiera-magic.github.io/challenge-01/
+* and also website itself on https://skwiera-magic.github.io/accessibility-optimization/
 
